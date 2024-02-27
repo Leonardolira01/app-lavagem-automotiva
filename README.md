@@ -21,4 +21,8 @@ Atividades:
   Implementar botão para cancelar agendamento, com modal de confirmação
   Implementar botão para concluir agendamento, com modal para confirmação
 
-###
+### APP
+
+Com os dados instalados em seu computador, abrindo o terminal no VSCODE, rodando o comando: npm start e escolhendo a opção IOS, terá acesso ao aplicativo desenvolvido:
+
+<img>
